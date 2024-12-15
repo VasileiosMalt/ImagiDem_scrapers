@@ -77,23 +77,6 @@ Based on the code files provided, here is the complete list of scrapers:
   selenium
   ```
 
-## 🔧 Usage Instructions
-
-1. Install required dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-2. Select appropriate scraper for target archive
-3. Configure search parameters:
-   - Keywords
-   - Date ranges
-   - Number of pages
-4. Execute scraper:
-```python
-python scraper_name.py
-```
-
 ## 📁 Output Structure
 
 ```
