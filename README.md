@@ -1,11 +1,11 @@
 # 🖼️ ImagiDem Scrapers
 
-A collection of web scraping tools developed for the ImagiDem Project (Images of Democracy), exploring visual representations of democracy and protest movements across European digital archives.
+A collection of web scraping tools developed for the  [ImagiDem Project](https://csd.fi/imagidem/) in the period 2022-2023, exploring visual representations of democracy and protest movements across European digital archives.
 
 ## 📚 Overview
 
 These scrapers facilitate the systematic collection of historical images and metadata from various European digital archives, supporting research on collective memory and visual democracy.
-Based on the code files provided, here is the complete list of scrapers:
+Here is the complete list of scrapers:
 
 ## 🛠️ Available Scrapers
 ### 🇵🇹 Portuguese Archives
